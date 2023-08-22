@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LansaryAbde
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in web devlopement
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on frontend dev
 - 📫 How to reach me ...
 
